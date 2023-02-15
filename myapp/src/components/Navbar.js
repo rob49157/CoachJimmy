@@ -1,9 +1,18 @@
-import React from 'react'
+
 import { Container, Nav, Navbar as NavbarBs } from "react-bootstrap";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink ,useLocation} from "react-router-dom";
+import ReorderIcon from "@material-ui/icons/Reorder";
+import React, { useState, useEffect } from "react";
+
 
 function Navbar() {
+
+
+
+
   return (
+
+
     <NavbarBs sticky="top" className="bg-light shadow mb-3  navbar-expand-lg "  alt="Max-width 100%" >
     <Container>
       <Nav className="me-auto " >
@@ -26,12 +35,12 @@ function Navbar() {
       
       
       
-      </Nav>
+       </Nav>
      
         
      
-    </Container>
-  </NavbarBs>
+     </Container>
+   </NavbarBs>
     
  
   
