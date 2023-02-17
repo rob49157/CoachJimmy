@@ -13,9 +13,9 @@ function Navbar() {
   return (
 
 
-    <NavbarBs sticky="top" className="bg-light shadow mb-3  navbar-expand-lg "  alt="Max-width 100%" >
+    <NavbarBs sticky="top" className="bg-light shadow mb-3  navbar-expand-lg"  alt="Max-width 100%" >
     <Container>
-      <Nav className="me-auto " >
+      <Nav className="mr-auto " >
         <Nav.Link to="/" as={NavLink}>
           Home
         </Nav.Link>

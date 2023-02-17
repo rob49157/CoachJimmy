@@ -40,6 +40,8 @@ function Cards() {
               label='WeighTraining'
               path='/WeightTraining'
             />
+
+        
             
           </ul>
           </div>

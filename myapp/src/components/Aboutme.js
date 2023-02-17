@@ -1,18 +1,19 @@
 import React from "react";
 import Runpic from "../images/running.jpg";
 import './aboutme.css';
+
+
 function Aboutme() {
   return (
-    <div>
-      <div className="container">
-        <h1> Jimmy</h1>
-        <h2> Personal Trainer/Coach</h2>
-        <div>
-          <img className="image" src={Runpic} />
-        </div>
-        <p>about me paragraph......</p>
-      </div>
+    <div className= "card">
+      <img src={Runpic} className="image"></img>
+      <h1>Jimmy</h1>
+      <p class="title">CEO & Founder, fsadfsdfsadfsadfsadfsdafsdfsafsadfsadfsafdsafdsdfsadf</p>
+      <p><button>Contact</button></p>
     </div>
+
+      
+      
   );
 }
 
