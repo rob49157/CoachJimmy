@@ -31,6 +31,9 @@ function Navbar() {
         <Nav.Link to="/WeightTraining" as={NavLink}>
         Weight Training
         </Nav.Link>
+        <Nav.Link to="/Contact" as={NavLink}>
+        Contact
+        </Nav.Link>
         
       
       

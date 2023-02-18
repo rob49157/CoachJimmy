@@ -6,6 +6,7 @@ import Swim from "./components/Swim.js"
 import Run from "./components/Run.js"
 import Weighttraining from "./components/Weighttraining.js"
 import Home from "./components/Home.js"
+import Contact from "./components/Contact.js"
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
         />
           <Route
           path="/WeightTraining" element={<Weighttraining/>}
+        />
+          <Route
+          path="/Contact" element={<Contact/>}
         />
 
 
