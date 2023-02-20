@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CoachJimmy/static/css/main.ba1de2ec.css",
-    "main.js": "/CoachJimmy/static/js/main.29890c3d.js",
+    "main.js": "/CoachJimmy/static/js/main.a54ce0e7.js",
     "static/js/787.d3befce1.chunk.js": "/CoachJimmy/static/js/787.d3befce1.chunk.js",
     "static/media/running.jpg": "/CoachJimmy/static/media/running.e570e86beeb752d7b4cc.jpg",
     "static/media/Bikepic.jpg": "/CoachJimmy/static/media/Bikepic.2b4457583b239726281e.jpg",
@@ -9,11 +9,11 @@
     "static/media/WeightTraining.jpg": "/CoachJimmy/static/media/WeightTraining.fc53f597ebd75174d558.jpg",
     "index.html": "/CoachJimmy/index.html",
     "main.ba1de2ec.css.map": "/CoachJimmy/static/css/main.ba1de2ec.css.map",
-    "main.29890c3d.js.map": "/CoachJimmy/static/js/main.29890c3d.js.map",
+    "main.a54ce0e7.js.map": "/CoachJimmy/static/js/main.a54ce0e7.js.map",
     "787.d3befce1.chunk.js.map": "/CoachJimmy/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba1de2ec.css",
-    "static/js/main.29890c3d.js"
+    "static/js/main.a54ce0e7.js"
   ]
 }
