@@ -10,7 +10,7 @@ import Contact from "./components/Contact.js"
 
 function App() {
   return (
-    <BrowserRouter >
+    <BrowserRouter basename = "/CoachJimmy">
       <Navbar
         
       />
