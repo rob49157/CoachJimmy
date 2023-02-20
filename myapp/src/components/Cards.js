@@ -29,7 +29,7 @@ function Cards() {
             <CardItem
               src={Swim}
               text='Why do i need swimming?
-              Just two and a half hours per week of aerobic physical activity, such as swimming, bicycling, or running, can decrease the risk of chronic illnesses. This can also lead to improved health for people with diabetes and heart disease,2 Swimmers have about half the risk of death compared with inactive people..'
+              Just two and a half hours per week of aerobic physical activity, such as swimming, bicycling, or running, can decrease the risk of chronic illnesses. This can also lead to improved health for people with diabetes and heart disease,2 Swimmers have about half the risk of death compared with inactive people.'
              
               label='Swimming'
               path='/Swim'

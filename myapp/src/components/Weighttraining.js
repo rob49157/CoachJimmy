@@ -13,7 +13,7 @@ function Weighttraining() {
     <img src={WeightTraining1} className="image"></img>
     <h1> Coach Jimmy</h1>
     <p class="title">
-      On this class will focus on Muscle Definition
+    Strength training may enhance your quality of life and improve your ability to do everyday activities. Strength training can also protect your joints from injury. Building muscle also can contribute to better balance and may reduce your risk of falls. This can help you maintain independence as you age.
     </p>
     
     

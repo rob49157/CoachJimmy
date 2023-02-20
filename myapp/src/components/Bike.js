@@ -12,7 +12,7 @@ function Bike() {
     <img src={Bikepic} className="image"></img>
     <h1> Coach Jimmy</h1>
     <p class="title">
-      On this class will explore biking techniques
+    Cycling strengthens your heart muscles, lowers resting pulse and reduces blood fat levels. Research also shows that people who cycle to work have two to three times less exposure to pollution than car commuters, so their lung function is improved.
     </p>
     
     

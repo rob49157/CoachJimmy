@@ -47,7 +47,7 @@ export default Contact
 // Styles
 const StyledContactForm = styled.div`
   width: 280px;
-  margin-left: 10%;
+  margin: auto;
   form {
     display: flex;
     align-items: flex-start;

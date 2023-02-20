@@ -13,7 +13,8 @@ function Run() {
     <img src={Runpic} className="image"></img>
     <h1> Coach Jimmy</h1>
     <p class="title">
-     On this class will focus on Running techniques
+    'Health benefits of running and jogging
+    help to build strong bones, as it is a weight bearing exercise. strengthen muscles. improve cardiovascular fitness. burn plenty of kilojoules.
     </p>
     
     
